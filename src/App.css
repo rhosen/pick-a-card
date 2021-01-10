@@ -1,0 +1,15 @@
+.webControl{
+    height: 30px;
+    width: 100px;
+    margin: 5px 15px 27px;
+    border-radius: 0.2rem;
+    border: 1px solid lightgray;
+    font-size: 1rem !important;
+    line-height: 1.5;
+  }
+
+  .content{
+      text-align: center;
+      margin: 0 auto;
+  }
+
