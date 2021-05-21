@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/pick-a-card/static/css/main.c96f2d34.chunk.css",
+    "main.js": "/pick-a-card/static/js/main.b29e7918.chunk.js",
+    "main.js.map": "/pick-a-card/static/js/main.b29e7918.chunk.js.map",
+    "runtime-main.js": "/pick-a-card/static/js/runtime-main.8d26040e.js",
+    "runtime-main.js.map": "/pick-a-card/static/js/runtime-main.8d26040e.js.map",
+    "static/js/2.5b322538.chunk.js": "/pick-a-card/static/js/2.5b322538.chunk.js",
+    "static/js/2.5b322538.chunk.js.map": "/pick-a-card/static/js/2.5b322538.chunk.js.map",
+    "index.html": "/pick-a-card/index.html",
+    "static/css/main.c96f2d34.chunk.css.map": "/pick-a-card/static/css/main.c96f2d34.chunk.css.map",
+    "static/js/2.5b322538.chunk.js.LICENSE.txt": "/pick-a-card/static/js/2.5b322538.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d26040e.js",
+    "static/js/2.5b322538.chunk.js",
+    "static/css/main.c96f2d34.chunk.css",
+    "static/js/main.b29e7918.chunk.js"
+  ]
+}
