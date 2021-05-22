@@ -4,4 +4,4 @@ This is a simple react app I built just out of my curiousity. This app lets you 
 
 ## Demo
 
-Try a <strong><a href="https://rhosen.github.io/national-things">live demo!</a></strong>
+Try a <strong><a href="https://rhosen.github.io/pick-a-card">live demo!</a></strong>
