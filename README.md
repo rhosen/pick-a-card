@@ -1,6 +1,6 @@
 ## About
 
-This is a simple react app I built just out of my curiousity. This app lets you to choose a playing card and shows it on the UI.
+A simple react app which I built just out of my curiosity. This app lets you choose a playing card and shows it on the UI.
 
 ## Demo
 
